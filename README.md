@@ -8,6 +8,7 @@ Extract structured data from [jobat.be](https://jobat.be) — jobat.be - Belgium
 
 ## Key features
 
+
 **Search with filters** — Search by keyword and location. Filter by language, and more.
 
 **Detail enrichment** — Fetch full job descriptions, salary data, employer profiles, contact information for each listing.
@@ -29,6 +30,7 @@ Extract structured data from [jobat.be](https://jobat.be) — jobat.be - Belgium
 ---
 
 ## Use cases
+
 
 **Data pipeline automation**
 Integrate with your ETL pipeline to collect structured listings from jobat.be on a schedule. Export to CSV, JSON, or directly to your database. Use compact mode to control output size.
@@ -180,6 +182,7 @@ No. Just sign up for Apify, paste your input, and click Start. No credit card re
 ---
 
 ## Related products by Black Falcon Data
+
 
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
 - [Indeed Job Scraper](https://apify.com/blackfalcondata/indeed-job-scraper?fpr=1h3gvi) — Indeed job listings with salary data
